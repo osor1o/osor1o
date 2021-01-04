@@ -11,6 +11,8 @@
 * AWS
 * GCP
 * Zabbix
+* Apache httpd
+* NGINX
 # DevOps
 * Docker
 * GitHub Actions
