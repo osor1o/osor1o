@@ -1,19 +1,22 @@
-# Software Engineering
+### Software Engineering
 <details>
 <summary>expand</summary>
 
+---
 * Design Patterns
 * OOP
 * SOLID
 * TDD
 * BDD
 * DDD
+---
 </details>
 
-# SysAdmin
+### SysAdmin
 <details>
 <summary>expand</summary>
 
+---
 * Linux
 * Ansible
 * AWS
@@ -21,59 +24,72 @@
 * Zabbix
 * Apache httpd
 * NGINX
+---
 </details>
 
-# DevOps
+### DevOps
 <details>
 <summary>expand</summary>
 
+---
 * Docker
 * GitHub Actions
 * GitLab CI/CD
+---
 </details>
 
-# Back-end
+### Back-end
 <details>
 <summary>expand</summary>
 
+---
 * Java
 * PHP
 * NodeJS
+---
 </details>
 
-# Front-end
+### Front-end
 <details>
 <summary>expand</summary>
 
+---
 * React
 * React Native
 * VueJS
 * Knockout.js
 * Electron
+---
 </details>
 
-# SQL
+### SQL
 <details>
 <summary>expand</summary>
 
+---
 * MySQL
 * PostgreSQL
 * SQLite
+---
 </details>
 
-# NoSQL
+### NoSQL
 <details>
 <summary>expand</summary>
 
+---
 * MongoDB
 * Redis
+---
 </details>
 
-# Version Control
+### Version Control
 <details>
 <summary>expand</summary>
 
+---
 * GitHub
 * GitLab
 * Bitbucket
+---
 </details>
