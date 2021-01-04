@@ -25,6 +25,7 @@
 * React
 * React Native
 * VueJS
+* Knockout.js
 * Electron
 # SQL
 * MySQL
