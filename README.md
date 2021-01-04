@@ -23,6 +23,7 @@
 * React
 * React Native
 * VueJS
+* Electron
 # SQL
   * MySQL
   * PostgreSQL
