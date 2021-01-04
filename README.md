@@ -27,9 +27,13 @@
 * VueJS
 * Electron
 # SQL
-  * MySQL
-  * PostgreSQL
-  * SQLite
+* MySQL
+* PostgreSQL
+* SQLite
 # NoSQL
-  * MongoDB
-  * Redis
+* MongoDB
+* Redis
+# Version Control
+* GitHub
+* GitLab
+* Bitbucket
