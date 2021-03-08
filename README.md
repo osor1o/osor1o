@@ -57,6 +57,7 @@
 * React
 * React Native
 * VueJS
+* Angular
 * Knockout.js
 * Electron
 ---
